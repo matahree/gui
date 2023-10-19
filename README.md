@@ -1,2 +1,3 @@
-# gui
-gui
+# GUI
+
+Some java graphical user interface projects.
